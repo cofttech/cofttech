@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Cofttech_LinkdIn.png" alt="CoftTech Logo" width="150" height="150" />
+  <img src="assets/Cofttech_git.png" alt="CoftTech Logo" width="200" />
 </p>
 <!--![CoftTech Git logo](assets/Cofttech_Git.png)-->
 #### AI-Driven Chatbots & Custom AI Solutions  
