@@ -4,9 +4,7 @@
 <!--![CoftTech Git logo](assets/Cofttech_Git.png)-->
 
 
-# 🚀 Empowering businesses with bespoke conversational AI and RAG workflows
-
-
+** 🚀 Empowering businesses with bespoke conversational AI and RAG workflows**
 <!--
 ---
 ## 📂 Featured Projects  
