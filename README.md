@@ -1,16 +1,24 @@
-## Hi there 👋
+# ![CoftTech logo](./assets/logo.png) CoftTech  
+#### AI-Driven Chatbots & Custom AI Solutions  
 
-<!--
-**cofttech/cofttech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Empowering businesses with bespoke conversational AI and RAG workflows._  
 
-Here are some ideas to get you started:
+---
+## 📂 Featured Projects  
+- **[Project A](link)** – One-line description  
+- **[Project B](link)** – One-line description  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 🚀 Our Services  
+- Chatbot development (RAG, LLM integration)  
+- Custom AI pipelines & consulting  
+
+---
+## 🔗 Quick Links  
+- 🌐 [cofttech.com](https://cofttech.com)  
+- 📧 `info@cofttech.com`  
+- 💼 [Upwork profile](your-upwork-link)  
+
+---
+## 📊 Stats & Clients  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cofttech)  
