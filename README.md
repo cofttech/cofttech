@@ -2,11 +2,9 @@
   <img src="assets/Cofttech_Git.png" alt="CoftTech Logo" width="250" />
 </p>
 <!--![CoftTech Git logo](assets/Cofttech_Git.png)-->
----
+
 
 # 🚀 Empowering businesses with bespoke conversational AI and RAG workflows
-
----
 
 
 <!--
