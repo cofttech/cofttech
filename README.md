@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="assets/Cofttech_Git.png" alt="CoftTech Logo" width="250" />
+  <img src="assets/Cofttech_Git.png" alt="CoftTech Logo" width="300" />
 </p>
 
 <h2 align="left">🚀 Empowering businesses with bespoke conversational AI and RAG workflows</h3>
