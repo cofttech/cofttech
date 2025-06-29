@@ -1,4 +1,4 @@
-# !(./assets/Cofttech_LinkdIn.png) CoftTech  
+![CoftTech Git logo](assets/Cofttech_Git.png)
 #### AI-Driven Chatbots & Custom AI Solutions  
 
 _Empowering businesses with bespoke conversational AI and RAG workflows._  
