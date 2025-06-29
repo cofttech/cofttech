@@ -1,17 +1,8 @@
 <p align="left">
   <img src="assets/Cofttech_Git.png" alt="CoftTech Logo" width="250" />
 </p>
-<!--![CoftTech Git logo](assets/Cofttech_Git.png)-->
 
-
-# 🚀 Empowering businesses with bespoke conversational AI and RAG workflows
-<!--
----
-## 📂 Featured Projects  
-- **[Project A](link)** – One-line description  
-- **[Project B](link)** – One-line description  
--->
----
+<h3 align="left">🚀 Empowering businesses with bespoke conversational AI and RAG workflows</h3>
 
 ## 🛠️ Our Services
 
